@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jatinpandya/static/css/main.86bc940e.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.d14ae972.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.d14ae972.chunk.js.map",
+    "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
+    "main.js": "/Jatinpandya/static/js/main.53415bc1.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.53415bc1.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.28b27d1a.chunk.js": "/Jatinpandya/static/js/2.28b27d1a.chunk.js",
-    "static/js/2.28b27d1a.chunk.js.map": "/Jatinpandya/static/js/2.28b27d1a.chunk.js.map",
+    "static/js/2.0fa49f5c.chunk.js": "/Jatinpandya/static/js/2.0fa49f5c.chunk.js",
+    "static/js/2.0fa49f5c.chunk.js.map": "/Jatinpandya/static/js/2.0fa49f5c.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.cbf1df4024574104a1ff4678341a1537.js": "/Jatinpandya/precache-manifest.cbf1df4024574104a1ff4678341a1537.js",
+    "precache-manifest.00cf3cbd93b8e5456e0117a0bbd9cf00.js": "/Jatinpandya/precache-manifest.00cf3cbd93b8e5456e0117a0bbd9cf00.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
-    "static/css/main.86bc940e.chunk.css.map": "/Jatinpandya/static/css/main.86bc940e.chunk.css.map",
+    "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/Jatinpandya/static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "/Jatinpandya/static/media/animated_ashutosh.6c8410d0.png",
@@ -36,7 +36,6 @@
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/Jatinpandya/static/media/jsFramework.b05ae5b5.svg",
-    "static/media/julogo.png": "/Jatinpandya/static/media/julogo.75d51b88.png",
     "static/media/legato_logo.png": "/Jatinpandya/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/Jatinpandya/static/media/manOnTable.52be3144.svg",
     "static/media/muffito_logo.png": "/Jatinpandya/static/media/muffito_logo.db6c1c0d.png",
@@ -52,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.28b27d1a.chunk.js",
-    "static/css/main.86bc940e.chunk.css",
-    "static/js/main.d14ae972.chunk.js"
+    "static/js/2.0fa49f5c.chunk.js",
+    "static/css/main.8569eb0d.chunk.css",
+    "static/js/main.53415bc1.chunk.js"
   ]
 }
