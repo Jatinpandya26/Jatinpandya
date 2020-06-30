@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.d73b75da.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.d73b75da.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.b556f419.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.b556f419.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.0fa49f5c.chunk.js": "/Jatinpandya/static/js/2.0fa49f5c.chunk.js",
-    "static/js/2.0fa49f5c.chunk.js.map": "/Jatinpandya/static/js/2.0fa49f5c.chunk.js.map",
+    "static/js/2.25bb8d2a.chunk.js": "/Jatinpandya/static/js/2.25bb8d2a.chunk.js",
+    "static/js/2.25bb8d2a.chunk.js.map": "/Jatinpandya/static/js/2.25bb8d2a.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.a774cc4db90e0784799252d31a68ac01.js": "/Jatinpandya/precache-manifest.a774cc4db90e0784799252d31a68ac01.js",
+    "precache-manifest.e1192d03843630b993110de319725d89.js": "/Jatinpandya/precache-manifest.e1192d03843630b993110de319725d89.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -36,6 +36,7 @@
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/Jatinpandya/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/julogo.png": "/Jatinpandya/static/media/julogo.75d51b88.png",
     "static/media/legato_logo.png": "/Jatinpandya/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/Jatinpandya/static/media/manOnTable.52be3144.svg",
     "static/media/muffito_logo.png": "/Jatinpandya/static/media/muffito_logo.db6c1c0d.png",
@@ -51,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.0fa49f5c.chunk.js",
+    "static/js/2.25bb8d2a.chunk.js",
     "static/css/main.8569eb0d.chunk.css",
-    "static/js/main.d73b75da.chunk.js"
+    "static/js/main.b556f419.chunk.js"
   ]
 }
