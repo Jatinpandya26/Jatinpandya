@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e4681a716b96db738abed9ec28b7b36",
+    "revision": "e2110242201eb7b0827d2d25e21af005",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "4b3cc7c5d9d14e37da3b",
+    "revision": "3472d6dadfebe65bb86e",
     "url": "/Jatinpandya/static/css/main.8569eb0d.chunk.css"
   },
   {
-    "revision": "0973ed622ae6bbf5d231",
-    "url": "/Jatinpandya/static/js/2.4b01fefc.chunk.js"
+    "revision": "da68ab680623f7b718a4",
+    "url": "/Jatinpandya/static/js/2.87c55fdf.chunk.js"
   },
   {
-    "revision": "4b3cc7c5d9d14e37da3b",
-    "url": "/Jatinpandya/static/js/main.df6a05ed.chunk.js"
+    "revision": "3472d6dadfebe65bb86e",
+    "url": "/Jatinpandya/static/js/main.b3213e80.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -82,6 +82,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/Jatinpandya/static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "7a8893c5199c43e592c5c9806ad34037",
+    "url": "/Jatinpandya/static/media/dac.7a8893c5.png"
+  },
+  {
+    "revision": "585081491346bab3516d2862db9d160d",
+    "url": "/Jatinpandya/static/media/data.58508149.png"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
@@ -238,6 +246,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
     "url": "/Jatinpandya/static/media/nptel_logo.cd7077f7.png"
+  },
+  {
+    "revision": "3f6049ac0fb23f9b9e45697787c79ced",
+    "url": "/Jatinpandya/static/media/ojay.3f6049ac.svg"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
