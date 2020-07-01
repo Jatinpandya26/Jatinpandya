@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.a3af8553.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.a3af8553.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.1d03db0b.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.1d03db0b.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.ccdf3b39.chunk.js": "/Jatinpandya/static/js/2.ccdf3b39.chunk.js",
-    "static/js/2.ccdf3b39.chunk.js.map": "/Jatinpandya/static/js/2.ccdf3b39.chunk.js.map",
+    "static/js/2.024be4f1.chunk.js": "/Jatinpandya/static/js/2.024be4f1.chunk.js",
+    "static/js/2.024be4f1.chunk.js.map": "/Jatinpandya/static/js/2.024be4f1.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.8b109672fb753e19f1af738f8406201c.js": "/Jatinpandya/precache-manifest.8b109672fb753e19f1af738f8406201c.js",
+    "precache-manifest.239a15cf161e3d17e8bd27a512449cd5.js": "/Jatinpandya/precache-manifest.239a15cf161e3d17e8bd27a512449cd5.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -21,6 +21,9 @@
     "static/media/codejay.png": "/Jatinpandya/static/media/codejay.6044e78d.png",
     "static/media/contactMail.png": "/Jatinpandya/static/media/contactMail.d6d4086f.png",
     "static/media/data_science.svg": "/Jatinpandya/static/media/data_science.434d2b01.svg",
+    "static/media/dc.png": "/Jatinpandya/static/media/dc.c368c23a.png",
+    "static/media/dcc.png": "/Jatinpandya/static/media/dcc.b3fc1048.png",
+    "static/media/ddc.png": "/Jatinpandya/static/media/ddc.9cd3a1cc.png",
     "static/media/deeplearning_ai_logo.png": "/Jatinpandya/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/Jatinpandya/static/media/developerActivity.59389695.svg",
     "static/media/dsc_logo.png": "/Jatinpandya/static/media/dsc_logo.f65ee6f6.png",
@@ -51,13 +54,15 @@
     "static/media/stanford_logo.png": "/Jatinpandya/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/Jatinpandya/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/Jatinpandya/static/media/talksCardBackAlt.7f0feeed.svg",
+    "static/media/uci.png": "/Jatinpandya/static/media/uci.33ab13a6.png",
+    "static/media/udcd.png": "/Jatinpandya/static/media/udcd.918d6ecc.png",
     "static/media/ui_ux_design.svg": "/Jatinpandya/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/undraw_starry_window_ppm0.png": "/Jatinpandya/static/media/undraw_starry_window_ppm0.b5dd6ab5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.ccdf3b39.chunk.js",
+    "static/js/2.024be4f1.chunk.js",
     "static/css/main.8569eb0d.chunk.css",
-    "static/js/main.a3af8553.chunk.js"
+    "static/js/main.1d03db0b.chunk.js"
   ]
 }
