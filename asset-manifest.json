@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.b3213e80.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.b3213e80.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.ffc6f655.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.ffc6f655.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.87c55fdf.chunk.js": "/Jatinpandya/static/js/2.87c55fdf.chunk.js",
-    "static/js/2.87c55fdf.chunk.js.map": "/Jatinpandya/static/js/2.87c55fdf.chunk.js.map",
+    "static/js/2.ecfb21c9.chunk.js": "/Jatinpandya/static/js/2.ecfb21c9.chunk.js",
+    "static/js/2.ecfb21c9.chunk.js.map": "/Jatinpandya/static/js/2.ecfb21c9.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.d7e587d2127d5aa282c6e595af6b54cc.js": "/Jatinpandya/precache-manifest.d7e587d2127d5aa282c6e595af6b54cc.js",
+    "precache-manifest.d62ecf8e3c55927fb401b070939b21bf.js": "/Jatinpandya/precache-manifest.d62ecf8e3c55927fb401b070939b21bf.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -45,6 +45,7 @@
     "static/media/legato_logo.png": "/Jatinpandya/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/Jatinpandya/static/media/manOnTable.52be3144.svg",
     "static/media/mark.png": "/Jatinpandya/static/media/mark.bef6d01a.png",
+    "static/media/mk.png": "/Jatinpandya/static/media/mk.ae29c3a3.png",
     "static/media/muffito_logo.png": "/Jatinpandya/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/Jatinpandya/static/media/nptel_logo.cd7077f7.png",
     "static/media/ojay.svg": "/Jatinpandya/static/media/ojay.3f6049ac.svg",
@@ -63,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.87c55fdf.chunk.js",
+    "static/js/2.ecfb21c9.chunk.js",
     "static/css/main.8569eb0d.chunk.css",
-    "static/js/main.b3213e80.chunk.js"
+    "static/js/main.ffc6f655.chunk.js"
   ]
 }
