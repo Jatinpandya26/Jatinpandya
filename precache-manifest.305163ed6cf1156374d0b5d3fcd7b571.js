@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58497cd090fa28d817af3d5579b5e667",
+    "revision": "85dbf331d34544f57f942d51b7cce9ab",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "5c1c88b0d80d8ef5e362",
+    "revision": "468f93487f9731d8c209",
     "url": "/Jatinpandya/static/css/main.8569eb0d.chunk.css"
   },
   {
-    "revision": "d307b8d7e6b1d9176474",
-    "url": "/Jatinpandya/static/js/2.ecfb21c9.chunk.js"
+    "revision": "ab096667028f9e4390a3",
+    "url": "/Jatinpandya/static/js/2.eddb64a5.chunk.js"
   },
   {
-    "revision": "5c1c88b0d80d8ef5e362",
-    "url": "/Jatinpandya/static/js/main.427d7d78.chunk.js"
+    "revision": "468f93487f9731d8c209",
+    "url": "/Jatinpandya/static/js/main.51f1a9f8.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
     "url": "/Jatinpandya/static/media/address_image.3b021f8f.svg"
+  },
+  {
+    "revision": "42a7861bb1a403af534b18986ab4e198",
+    "url": "/Jatinpandya/static/media/amaz1.42a7861b.png"
+  },
+  {
+    "revision": "1e22b5a5fcdc0ea7d4a07b571dfccbc3",
+    "url": "/Jatinpandya/static/media/amzs.1e22b5a5.png"
   },
   {
     "revision": "6c8410d0dc11fec239040695be13315d",
@@ -110,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/Jatinpandya/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "a63c401921acfde77fa4031a09cf13b7",
+    "url": "/Jatinpandya/static/media/dsc1.a63c4019.png"
   },
   {
     "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
@@ -194,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
     "url": "/Jatinpandya/static/media/gcp_logo.ba18401b.png"
+  },
+  {
+    "revision": "dda2c9c0de390508f5ec625842a35ec1",
+    "url": "/Jatinpandya/static/media/gcss.dda2c9c0.png"
   },
   {
     "revision": "e64de169a4222787bc49f3706282ef96",

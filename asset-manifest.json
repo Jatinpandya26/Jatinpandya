@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.427d7d78.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.427d7d78.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.51f1a9f8.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.51f1a9f8.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.ecfb21c9.chunk.js": "/Jatinpandya/static/js/2.ecfb21c9.chunk.js",
-    "static/js/2.ecfb21c9.chunk.js.map": "/Jatinpandya/static/js/2.ecfb21c9.chunk.js.map",
+    "static/js/2.eddb64a5.chunk.js": "/Jatinpandya/static/js/2.eddb64a5.chunk.js",
+    "static/js/2.eddb64a5.chunk.js.map": "/Jatinpandya/static/js/2.eddb64a5.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.ab36deb21b60d4ed19f2c4ab81acfed0.js": "/Jatinpandya/precache-manifest.ab36deb21b60d4ed19f2c4ab81acfed0.js",
+    "precache-manifest.305163ed6cf1156374d0b5d3fcd7b571.js": "/Jatinpandya/precache-manifest.305163ed6cf1156374d0b5d3fcd7b571.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/Jatinpandya/static/media/address_image.3b021f8f.svg",
+    "static/media/amaz1.png": "/Jatinpandya/static/media/amaz1.42a7861b.png",
+    "static/media/amzs.png": "/Jatinpandya/static/media/amzs.1e22b5a5.png",
     "static/media/animated_ashutosh.png": "/Jatinpandya/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/Jatinpandya/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/Jatinpandya/static/media/blogs_image.b6b12c7d.svg",
@@ -27,6 +29,7 @@
     "static/media/ddc.png": "/Jatinpandya/static/media/ddc.47ca78e0.png",
     "static/media/deeplearning_ai_logo.png": "/Jatinpandya/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/Jatinpandya/static/media/developerActivity.59389695.svg",
+    "static/media/dsc1.png": "/Jatinpandya/static/media/dsc1.a63c4019.png",
     "static/media/dsc_logo.png": "/Jatinpandya/static/media/dsc_logo.f65ee6f6.png",
     "static/media/education.svg": "/Jatinpandya/static/media/education.caed892b.svg",
     "static/media/experience.svg": "/Jatinpandya/static/media/experience.85d6957f.svg",
@@ -34,6 +37,7 @@
     "static/media/feelingProud.svg": "/Jatinpandya/static/media/feelingProud.a73310ea.svg",
     "static/media/fullstack.svg": "/Jatinpandya/static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "/Jatinpandya/static/media/gcp_logo.ba18401b.png",
+    "static/media/gcss.png": "/Jatinpandya/static/media/gcss.dda2c9c0.png",
     "static/media/github_logo.png": "/Jatinpandya/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/Jatinpandya/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/Jatinpandya/static/media/googleAssistant.c24ba791.svg",
@@ -64,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.ecfb21c9.chunk.js",
+    "static/js/2.eddb64a5.chunk.js",
     "static/css/main.8569eb0d.chunk.css",
-    "static/js/main.427d7d78.chunk.js"
+    "static/js/main.51f1a9f8.chunk.js"
   ]
 }
