@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5f338dc43288a8fb68d920074d3ac0f",
+    "revision": "118161e3441778c99cf9c5b816652b26",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "bfde9b2cfe0f93edb4e2",
+    "revision": "7fa118094de30d5ff7a1",
     "url": "/Jatinpandya/static/css/main.8569eb0d.chunk.css"
   },
   {
-    "revision": "d25e2f4e3da7627bb9fd",
-    "url": "/Jatinpandya/static/js/2.9bdd15d4.chunk.js"
+    "revision": "679f71bf21f2e81bec17",
+    "url": "/Jatinpandya/static/js/2.e2594a05.chunk.js"
   },
   {
-    "revision": "bfde9b2cfe0f93edb4e2",
-    "url": "/Jatinpandya/static/js/main.78baef16.chunk.js"
+    "revision": "7fa118094de30d5ff7a1",
+    "url": "/Jatinpandya/static/js/main.1886814c.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -50,6 +50,54 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "55e6b194fb0a54bd36b2cef3c185eda4",
+    "url": "/Jatinpandya/static/media/a1.55e6b194.svg"
+  },
+  {
+    "revision": "4efb8f283f714bbfcd239bcfb6a1af26",
+    "url": "/Jatinpandya/static/media/a10.4efb8f28.png"
+  },
+  {
+    "revision": "317974943c6e2b1d280d4d5ab1936a14",
+    "url": "/Jatinpandya/static/media/a11.31797494.png"
+  },
+  {
+    "revision": "c5da6f6121f840ebbc3a30b162daaff5",
+    "url": "/Jatinpandya/static/media/a12.c5da6f61.png"
+  },
+  {
+    "revision": "c84e989994ce4ccf110e278e8acf96a2",
+    "url": "/Jatinpandya/static/media/a2.c84e9899.png"
+  },
+  {
+    "revision": "31dbfef6988fc57f4a1c0c29ce87d024",
+    "url": "/Jatinpandya/static/media/a3.31dbfef6.png"
+  },
+  {
+    "revision": "850a186444fd17a309bc75e77c224682",
+    "url": "/Jatinpandya/static/media/a4.850a1864.png"
+  },
+  {
+    "revision": "d2a45a520dbee94690f17ecdc836e9c2",
+    "url": "/Jatinpandya/static/media/a5.d2a45a52.png"
+  },
+  {
+    "revision": "c5da6f6121f840ebbc3a30b162daaff5",
+    "url": "/Jatinpandya/static/media/a6.c5da6f61.png"
+  },
+  {
+    "revision": "1cb28ee976f1b4e0104d4fa39be42127",
+    "url": "/Jatinpandya/static/media/a7.1cb28ee9.png"
+  },
+  {
+    "revision": "e0ca9a1caf7696b8f070cc497fe6a6f1",
+    "url": "/Jatinpandya/static/media/a8.e0ca9a1c.png"
+  },
+  {
+    "revision": "432e8b1e4d0b5e5010d38f05008a210a",
+    "url": "/Jatinpandya/static/media/a9.432e8b1e.png"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
