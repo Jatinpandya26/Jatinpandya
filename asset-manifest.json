@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.8569eb0d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.bf3f1ddf.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.bf3f1ddf.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.8a83d7a6.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.8a83d7a6.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.53389e36.chunk.js": "/Jatinpandya/static/js/2.53389e36.chunk.js",
-    "static/js/2.53389e36.chunk.js.map": "/Jatinpandya/static/js/2.53389e36.chunk.js.map",
+    "static/js/2.9bdd15d4.chunk.js": "/Jatinpandya/static/js/2.9bdd15d4.chunk.js",
+    "static/js/2.9bdd15d4.chunk.js.map": "/Jatinpandya/static/js/2.9bdd15d4.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.3470b2173ea9608b185d5870a0222671.js": "/Jatinpandya/precache-manifest.3470b2173ea9608b185d5870a0222671.js",
+    "precache-manifest.d18cb23ebbfff6c38c6df7ad25e84323.js": "/Jatinpandya/precache-manifest.d18cb23ebbfff6c38c6df7ad25e84323.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.8569eb0d.chunk.css.map": "/Jatinpandya/static/css/main.8569eb0d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -45,6 +45,8 @@
     "static/media/ibm_logo.png": "/Jatinpandya/static/media/ibm_logo.6d325fec.png",
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
+    "static/media/jayy.jpg": "/Jatinpandya/static/media/jayy.08b0901d.jpg",
+    "static/media/jayyy.png": "/Jatinpandya/static/media/jayyy.7067b7b7.png",
     "static/media/jsFramework.svg": "/Jatinpandya/static/media/jsFramework.b05ae5b5.svg",
     "static/media/julogo.png": "/Jatinpandya/static/media/julogo.75d51b88.png",
     "static/media/legato_logo.png": "/Jatinpandya/static/media/legato_logo.4ba886ba.png",
@@ -69,8 +71,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.53389e36.chunk.js",
+    "static/js/2.9bdd15d4.chunk.js",
     "static/css/main.8569eb0d.chunk.css",
-    "static/js/main.bf3f1ddf.chunk.js"
+    "static/js/main.8a83d7a6.chunk.js"
   ]
 }

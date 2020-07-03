@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5d349232287a94e62aedd447b27c959",
+    "revision": "b7edc253c97a61ec04268d441cd08183",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "3d33aa0b050f78e93ba7",
+    "revision": "cbad7115016663f1a36c",
     "url": "/Jatinpandya/static/css/main.8569eb0d.chunk.css"
   },
   {
-    "revision": "5f0fea97f81d958c33bc",
-    "url": "/Jatinpandya/static/js/2.53389e36.chunk.js"
+    "revision": "d25e2f4e3da7627bb9fd",
+    "url": "/Jatinpandya/static/js/2.9bdd15d4.chunk.js"
   },
   {
-    "revision": "3d33aa0b050f78e93ba7",
-    "url": "/Jatinpandya/static/js/main.bf3f1ddf.chunk.js"
+    "revision": "cbad7115016663f1a36c",
+    "url": "/Jatinpandya/static/js/main.8a83d7a6.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -238,6 +238,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "08b0901d633734fab032f9ddaf698297",
+    "url": "/Jatinpandya/static/media/jayy.08b0901d.jpg"
+  },
+  {
+    "revision": "7067b7b7950deef802c7952c249e23f6",
+    "url": "/Jatinpandya/static/media/jayyy.7067b7b7.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
