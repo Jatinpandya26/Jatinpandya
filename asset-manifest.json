@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.1171a27d.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.100cc4c9.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.100cc4c9.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.b71b8ff4.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.b71b8ff4.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.760e8266.chunk.js": "/Jatinpandya/static/js/2.760e8266.chunk.js",
-    "static/js/2.760e8266.chunk.js.map": "/Jatinpandya/static/js/2.760e8266.chunk.js.map",
+    "static/js/2.56c62e6f.chunk.js": "/Jatinpandya/static/js/2.56c62e6f.chunk.js",
+    "static/js/2.56c62e6f.chunk.js.map": "/Jatinpandya/static/js/2.56c62e6f.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.2164d6b71fc857431b3a55163973d708.js": "/Jatinpandya/precache-manifest.2164d6b71fc857431b3a55163973d708.js",
+    "precache-manifest.04d145d9ed078adbc74f95e8f27f34aa.js": "/Jatinpandya/precache-manifest.04d145d9ed078adbc74f95e8f27f34aa.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.1171a27d.chunk.css.map": "/Jatinpandya/static/css/main.1171a27d.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -16,6 +16,9 @@
     "static/media/a10.png": "/Jatinpandya/static/media/a10.4efb8f28.png",
     "static/media/a11.png": "/Jatinpandya/static/media/a11.31797494.png",
     "static/media/a12.png": "/Jatinpandya/static/media/a12.c5da6f61.png",
+    "static/media/a17.png": "/Jatinpandya/static/media/a17.8c8f531b.png",
+    "static/media/a18.png": "/Jatinpandya/static/media/a18.a5fe6779.png",
+    "static/media/a19.png": "/Jatinpandya/static/media/a19.c7bea2c9.png",
     "static/media/a2.png": "/Jatinpandya/static/media/a2.c84e9899.png",
     "static/media/a3.png": "/Jatinpandya/static/media/a3.31dbfef6.png",
     "static/media/a4.png": "/Jatinpandya/static/media/a4.850a1864.png",
@@ -83,8 +86,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.760e8266.chunk.js",
+    "static/js/2.56c62e6f.chunk.js",
     "static/css/main.1171a27d.chunk.css",
-    "static/js/main.100cc4c9.chunk.js"
+    "static/js/main.b71b8ff4.chunk.js"
   ]
 }
