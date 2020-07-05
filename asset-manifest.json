@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.b7621564.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.7a13adf3.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.7a13adf3.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.8a1c0111.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.8a1c0111.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.06fe33b1.chunk.js": "/Jatinpandya/static/js/2.06fe33b1.chunk.js",
-    "static/js/2.06fe33b1.chunk.js.map": "/Jatinpandya/static/js/2.06fe33b1.chunk.js.map",
+    "static/js/2.67d23d59.chunk.js": "/Jatinpandya/static/js/2.67d23d59.chunk.js",
+    "static/js/2.67d23d59.chunk.js.map": "/Jatinpandya/static/js/2.67d23d59.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.9b84d1dcf5dd75e4bd70d161ef633f90.js": "/Jatinpandya/precache-manifest.9b84d1dcf5dd75e4bd70d161ef633f90.js",
+    "precache-manifest.8c89488045bfe03a2245e6b303c68b4b.js": "/Jatinpandya/precache-manifest.8c89488045bfe03a2245e6b303c68b4b.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.b7621564.chunk.css.map": "/Jatinpandya/static/css/main.b7621564.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -30,9 +30,8 @@
     "static/media/address_image.svg": "/Jatinpandya/static/media/address_image.3b021f8f.svg",
     "static/media/amaz1.png": "/Jatinpandya/static/media/amaz1.42a7861b.png",
     "static/media/amzs.png": "/Jatinpandya/static/media/amzs.1e22b5a5.png",
-    "static/media/animated_ashutosh.png": "/Jatinpandya/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/Jatinpandya/static/media/animated_logo.a633be2f.svg",
-    "static/media/bgg.png": "/Jatinpandya/static/media/bgg.a395961a.png",
+    "static/media/bgg.png": "/Jatinpandya/static/media/bgg.ce6c7ee2.png",
     "static/media/blogs_image.svg": "/Jatinpandya/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/Jatinpandya/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/Jatinpandya/static/media/codeInLogo.b3685be8.png",
@@ -86,8 +85,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.06fe33b1.chunk.js",
+    "static/js/2.67d23d59.chunk.js",
     "static/css/main.b7621564.chunk.css",
-    "static/js/main.7a13adf3.chunk.js"
+    "static/js/main.8a1c0111.chunk.js"
   ]
 }
