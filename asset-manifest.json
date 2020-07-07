@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.b7621564.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.ab369477.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.ab369477.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.c304fd4c.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.c304fd4c.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.1a55d653.chunk.js": "/Jatinpandya/static/js/2.1a55d653.chunk.js",
-    "static/js/2.1a55d653.chunk.js.map": "/Jatinpandya/static/js/2.1a55d653.chunk.js.map",
+    "static/js/2.e224b7e9.chunk.js": "/Jatinpandya/static/js/2.e224b7e9.chunk.js",
+    "static/js/2.e224b7e9.chunk.js.map": "/Jatinpandya/static/js/2.e224b7e9.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.5381eb017d83f89a0fe8903c00f56380.js": "/Jatinpandya/precache-manifest.5381eb017d83f89a0fe8903c00f56380.js",
+    "precache-manifest.468992664ff1559faac9f2a2477233d4.js": "/Jatinpandya/precache-manifest.468992664ff1559faac9f2a2477233d4.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.b7621564.chunk.css.map": "/Jatinpandya/static/css/main.b7621564.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -27,6 +27,8 @@
     "static/media/a7.png": "/Jatinpandya/static/media/a7.1cb28ee9.png",
     "static/media/a8.png": "/Jatinpandya/static/media/a8.e0ca9a1c.png",
     "static/media/a9.png": "/Jatinpandya/static/media/a9.432e8b1e.png",
+    "static/media/ac1.jpg": "/Jatinpandya/static/media/ac1.d6deb2d3.jpg",
+    "static/media/ac2.jpg": "/Jatinpandya/static/media/ac2.2da94f94.jpg",
     "static/media/address_image.svg": "/Jatinpandya/static/media/address_image.3b021f8f.svg",
     "static/media/amaz1.png": "/Jatinpandya/static/media/amaz1.42a7861b.png",
     "static/media/amzs.png": "/Jatinpandya/static/media/amzs.1e22b5a5.png",
@@ -87,8 +89,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.1a55d653.chunk.js",
+    "static/js/2.e224b7e9.chunk.js",
     "static/css/main.b7621564.chunk.css",
-    "static/js/main.ab369477.chunk.js"
+    "static/js/main.c304fd4c.chunk.js"
   ]
 }
