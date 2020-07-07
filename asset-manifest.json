@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.344e9b8f.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.3963c8d6.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.3963c8d6.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.058704b2.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.058704b2.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.a8568634.chunk.js": "/Jatinpandya/static/js/2.a8568634.chunk.js",
-    "static/js/2.a8568634.chunk.js.map": "/Jatinpandya/static/js/2.a8568634.chunk.js.map",
+    "static/js/2.31d96c64.chunk.js": "/Jatinpandya/static/js/2.31d96c64.chunk.js",
+    "static/js/2.31d96c64.chunk.js.map": "/Jatinpandya/static/js/2.31d96c64.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.3c3f1b0373fd0a6b57acec655b40c229.js": "/Jatinpandya/precache-manifest.3c3f1b0373fd0a6b57acec655b40c229.js",
+    "precache-manifest.bfe4736b49eea056603a4bb8fe7866a9.js": "/Jatinpandya/precache-manifest.bfe4736b49eea056603a4bb8fe7866a9.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.344e9b8f.chunk.css.map": "/Jatinpandya/static/css/main.344e9b8f.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -51,6 +51,7 @@
     "static/media/education.svg": "/Jatinpandya/static/media/education.caed892b.svg",
     "static/media/experience.svg": "/Jatinpandya/static/media/experience.85d6957f.svg",
     "static/media/all.css": "/Jatinpandya/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/facebookLogo.png": "/Jatinpandya/static/media/facebookLogo.8ddf76a1.png",
     "static/media/feelingProud.svg": "/Jatinpandya/static/media/feelingProud.a73310ea.svg",
     "static/media/fullstack.svg": "/Jatinpandya/static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "/Jatinpandya/static/media/gcp_logo.ba18401b.png",
@@ -89,8 +90,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.a8568634.chunk.js",
+    "static/js/2.31d96c64.chunk.js",
     "static/css/main.344e9b8f.chunk.css",
-    "static/js/main.3963c8d6.chunk.js"
+    "static/js/main.058704b2.chunk.js"
   ]
 }
