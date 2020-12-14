@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.b7621564.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.6142adfb.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.6142adfb.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.6f348d9b.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.6f348d9b.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.aeda751b.chunk.js": "/Jatinpandya/static/js/2.aeda751b.chunk.js",
-    "static/js/2.aeda751b.chunk.js.map": "/Jatinpandya/static/js/2.aeda751b.chunk.js.map",
+    "static/js/2.23890e91.chunk.js": "/Jatinpandya/static/js/2.23890e91.chunk.js",
+    "static/js/2.23890e91.chunk.js.map": "/Jatinpandya/static/js/2.23890e91.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.7c6aef0b9efb014814872d21bd9fa0e2.js": "/Jatinpandya/precache-manifest.7c6aef0b9efb014814872d21bd9fa0e2.js",
+    "precache-manifest.1d942029fa2f52b69ceef6ecd8e35129.js": "/Jatinpandya/precache-manifest.1d942029fa2f52b69ceef6ecd8e35129.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.b7621564.chunk.css.map": "/Jatinpandya/static/css/main.b7621564.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/NutanixHybridCloud_Scholarship.jpg": "/Jatinpandya/static/media/NutanixHybridCloud_Scholarship.19eae115.jpg",
     "static/media/a1.svg": "/Jatinpandya/static/media/a1.55e6b194.svg",
     "static/media/a10.png": "/Jatinpandya/static/media/a10.4efb8f28.png",
     "static/media/a11.png": "/Jatinpandya/static/media/a11.31797494.png",
@@ -86,12 +87,13 @@
     "static/media/uci2.png": "/Jatinpandya/static/media/uci2.562fd9c4.png",
     "static/media/udcd.png": "/Jatinpandya/static/media/udcd.918d6ecc.png",
     "static/media/ui_ux_design.svg": "/Jatinpandya/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/undraw_on_the_office_fbfs.png": "/Jatinpandya/static/media/undraw_on_the_office_fbfs.4eb8a921.png",
     "static/media/undraw_starry_window_ppm0.png": "/Jatinpandya/static/media/undraw_starry_window_ppm0.b5dd6ab5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.aeda751b.chunk.js",
+    "static/js/2.23890e91.chunk.js",
     "static/css/main.b7621564.chunk.css",
-    "static/js/main.6142adfb.chunk.js"
+    "static/js/main.6f348d9b.chunk.js"
   ]
 }

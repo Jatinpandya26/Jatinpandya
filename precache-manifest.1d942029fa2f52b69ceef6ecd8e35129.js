@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d92a3b2551fb7294ad32510586a5a3e",
+    "revision": "58f85fb23bfb7242c973b84e3de242b2",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "ce1ba5aa86574fdcccb7",
+    "revision": "052288351f92a94c358d",
     "url": "/Jatinpandya/static/css/main.b7621564.chunk.css"
   },
   {
-    "revision": "b7a28edb4aad427010a9",
-    "url": "/Jatinpandya/static/js/2.aeda751b.chunk.js"
+    "revision": "0e362a52ef53d3363239",
+    "url": "/Jatinpandya/static/js/2.23890e91.chunk.js"
   },
   {
-    "revision": "ce1ba5aa86574fdcccb7",
-    "url": "/Jatinpandya/static/js/main.6142adfb.chunk.js"
+    "revision": "052288351f92a94c358d",
+    "url": "/Jatinpandya/static/js/main.6f348d9b.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "19eae1156516754fc7aca0a764f4d418",
+    "url": "/Jatinpandya/static/media/NutanixHybridCloud_Scholarship.19eae115.jpg"
   },
   {
     "revision": "55e6b194fb0a54bd36b2cef3c185eda4",
@@ -402,6 +406,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/Jatinpandya/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "4eb8a9213e6172c9e8953465b3790398",
+    "url": "/Jatinpandya/static/media/undraw_on_the_office_fbfs.4eb8a921.png"
   },
   {
     "revision": "b5dd6ab51c2f64119fc2f626eac7a893",
