@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.b7621564.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.be85d6e3.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.be85d6e3.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.1d98e69e.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.1d98e69e.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.23890e91.chunk.js": "/Jatinpandya/static/js/2.23890e91.chunk.js",
-    "static/js/2.23890e91.chunk.js.map": "/Jatinpandya/static/js/2.23890e91.chunk.js.map",
+    "static/js/2.5003c62a.chunk.js": "/Jatinpandya/static/js/2.5003c62a.chunk.js",
+    "static/js/2.5003c62a.chunk.js.map": "/Jatinpandya/static/js/2.5003c62a.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.9d2638152d418cadb97f5a4b5292e5c0.js": "/Jatinpandya/precache-manifest.9d2638152d418cadb97f5a4b5292e5c0.js",
+    "precache-manifest.0d078d3c66e68f7017a661154133d904.js": "/Jatinpandya/precache-manifest.0d078d3c66e68f7017a661154133d904.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.b7621564.chunk.css.map": "/Jatinpandya/static/css/main.b7621564.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -60,6 +60,7 @@
     "static/media/github_logo.png": "/Jatinpandya/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/Jatinpandya/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/Jatinpandya/static/media/googleAssistant.c24ba791.svg",
+    "static/media/hv2.jpg": "/Jatinpandya/static/media/hv2.26080089.jpg",
     "static/media/ibm_logo.png": "/Jatinpandya/static/media/ibm_logo.6d325fec.png",
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
@@ -92,8 +93,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.23890e91.chunk.js",
+    "static/js/2.5003c62a.chunk.js",
     "static/css/main.b7621564.chunk.css",
-    "static/js/main.be85d6e3.chunk.js"
+    "static/js/main.1d98e69e.chunk.js"
   ]
 }
