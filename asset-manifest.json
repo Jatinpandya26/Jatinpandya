@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.874a0750.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.ea7d2c3a.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.ea7d2c3a.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.67d57135.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.67d57135.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.5003c62a.chunk.js": "/Jatinpandya/static/js/2.5003c62a.chunk.js",
-    "static/js/2.5003c62a.chunk.js.map": "/Jatinpandya/static/js/2.5003c62a.chunk.js.map",
+    "static/js/2.a5301790.chunk.js": "/Jatinpandya/static/js/2.a5301790.chunk.js",
+    "static/js/2.a5301790.chunk.js.map": "/Jatinpandya/static/js/2.a5301790.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.8a2c2a06c7162b1c116d1532b364043b.js": "/Jatinpandya/precache-manifest.8a2c2a06c7162b1c116d1532b364043b.js",
+    "precache-manifest.199a73c35680a57f14c8a10fbe366902.js": "/Jatinpandya/precache-manifest.199a73c35680a57f14c8a10fbe366902.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.874a0750.chunk.css.map": "/Jatinpandya/static/css/main.874a0750.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -64,6 +64,7 @@
     "static/media/ibm_logo.png": "/Jatinpandya/static/media/ibm_logo.6d325fec.png",
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
+    "static/media/ja.png": "/Jatinpandya/static/media/ja.f00d812c.png",
     "static/media/jayy.jpg": "/Jatinpandya/static/media/jayy.08b0901d.jpg",
     "static/media/jayyy.png": "/Jatinpandya/static/media/jayyy.a584b69a.png",
     "static/media/jsFramework.svg": "/Jatinpandya/static/media/jsFramework.b05ae5b5.svg",
@@ -93,8 +94,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.5003c62a.chunk.js",
+    "static/js/2.a5301790.chunk.js",
     "static/css/main.874a0750.chunk.css",
-    "static/js/main.ea7d2c3a.chunk.js"
+    "static/js/main.67d57135.chunk.js"
   ]
 }
