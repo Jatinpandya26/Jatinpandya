@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.9c045613.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.838b5b77.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.838b5b77.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.f65a3902.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.f65a3902.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.12ffb555.chunk.js": "/Jatinpandya/static/js/2.12ffb555.chunk.js",
-    "static/js/2.12ffb555.chunk.js.map": "/Jatinpandya/static/js/2.12ffb555.chunk.js.map",
+    "static/js/2.20aa62f1.chunk.js": "/Jatinpandya/static/js/2.20aa62f1.chunk.js",
+    "static/js/2.20aa62f1.chunk.js.map": "/Jatinpandya/static/js/2.20aa62f1.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.aea4321afb36f4835de478be42ddac18.js": "/Jatinpandya/precache-manifest.aea4321afb36f4835de478be42ddac18.js",
+    "precache-manifest.ccc2ba495b4b090bdebad80002b78e62.js": "/Jatinpandya/precache-manifest.ccc2ba495b4b090bdebad80002b78e62.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.9c045613.chunk.css.map": "/Jatinpandya/static/css/main.9c045613.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -99,8 +99,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.12ffb555.chunk.js",
+    "static/js/2.20aa62f1.chunk.js",
     "static/css/main.9c045613.chunk.css",
-    "static/js/main.838b5b77.chunk.js"
+    "static/js/main.f65a3902.chunk.js"
   ]
 }
