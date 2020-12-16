@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.874a0750.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.0fea95ab.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.0fea95ab.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.56399d96.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.56399d96.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.51cbd0bc.chunk.js": "/Jatinpandya/static/js/2.51cbd0bc.chunk.js",
-    "static/js/2.51cbd0bc.chunk.js.map": "/Jatinpandya/static/js/2.51cbd0bc.chunk.js.map",
+    "static/js/2.771af43f.chunk.js": "/Jatinpandya/static/js/2.771af43f.chunk.js",
+    "static/js/2.771af43f.chunk.js.map": "/Jatinpandya/static/js/2.771af43f.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.d0f7470fc01cb24627a7b965db8b2188.js": "/Jatinpandya/precache-manifest.d0f7470fc01cb24627a7b965db8b2188.js",
+    "precache-manifest.8efd05e63618a2a79f3b92125a39a9c5.js": "/Jatinpandya/precache-manifest.8efd05e63618a2a79f3b92125a39a9c5.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.874a0750.chunk.css.map": "/Jatinpandya/static/css/main.874a0750.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -66,6 +66,7 @@
     "static/media/googleAssistant.svg": "/Jatinpandya/static/media/googleAssistant.c24ba791.svg",
     "static/media/hv2.jpg": "/Jatinpandya/static/media/hv2.26080089.jpg",
     "static/media/ibm_logo.png": "/Jatinpandya/static/media/ibm_logo.6d325fec.png",
+    "static/media/ibme.png": "/Jatinpandya/static/media/ibme.9205cd26.png",
     "static/media/iiitk_logo.png": "/Jatinpandya/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/Jatinpandya/static/media/intel_logo.29152cf7.jpg",
     "static/media/ja.png": "/Jatinpandya/static/media/ja.f00d812c.png",
@@ -80,6 +81,7 @@
     "static/media/muffito_logo.png": "/Jatinpandya/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/Jatinpandya/static/media/nptel_logo.cd7077f7.png",
     "static/media/ojay.svg": "/Jatinpandya/static/media/ojay.3f6049ac.svg",
+    "static/media/pds.png": "/Jatinpandya/static/media/pds.7ef9ae27.png",
     "static/media/portfolio.gif": "/Jatinpandya/static/media/portfolio.6e7dc5ad.gif",
     "static/media/prod.png": "/Jatinpandya/static/media/prod.9faa249a.png",
     "static/media/prod.svg": "/Jatinpandya/static/media/prod.ab412026.svg",
@@ -99,8 +101,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.51cbd0bc.chunk.js",
+    "static/js/2.771af43f.chunk.js",
     "static/css/main.874a0750.chunk.css",
-    "static/js/main.0fea95ab.chunk.js"
+    "static/js/main.56399d96.chunk.js"
   ]
 }

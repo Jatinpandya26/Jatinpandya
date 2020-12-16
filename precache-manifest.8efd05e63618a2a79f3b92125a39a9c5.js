@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e46298f523b106bf5808716335efa953",
+    "revision": "59bf32e932df8ff229cf5c2caec5d96e",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "0dc1a0ceecbece505747",
+    "revision": "6616923aca5af803b9dc",
     "url": "/Jatinpandya/static/css/main.874a0750.chunk.css"
   },
   {
-    "revision": "ebe9e8a2fd4efb9ab594",
-    "url": "/Jatinpandya/static/js/2.51cbd0bc.chunk.js"
+    "revision": "9e15d877f078a876e749",
+    "url": "/Jatinpandya/static/js/2.771af43f.chunk.js"
   },
   {
-    "revision": "0dc1a0ceecbece505747",
-    "url": "/Jatinpandya/static/js/main.0fea95ab.chunk.js"
+    "revision": "6616923aca5af803b9dc",
+    "url": "/Jatinpandya/static/js/main.56399d96.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -324,6 +324,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jatinpandya/static/media/ibm_logo.6d325fec.png"
   },
   {
+    "revision": "9205cd269b616376e49ad165982211b1",
+    "url": "/Jatinpandya/static/media/ibme.9205cd26.png"
+  },
+  {
     "revision": "c350d7996596e9909fe72c0938cc9ee5",
     "url": "/Jatinpandya/static/media/iiitk_logo.c350d799.png"
   },
@@ -378,6 +382,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f6049ac0fb23f9b9e45697787c79ced",
     "url": "/Jatinpandya/static/media/ojay.3f6049ac.svg"
+  },
+  {
+    "revision": "7ef9ae27bfc65b7c6ee3e0f446b962b1",
+    "url": "/Jatinpandya/static/media/pds.7ef9ae27.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
