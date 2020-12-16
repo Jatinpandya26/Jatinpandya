@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.874a0750.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.2e0dbd73.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.2e0dbd73.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.b68977b4.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.b68977b4.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.3258fe1e.chunk.js": "/Jatinpandya/static/js/2.3258fe1e.chunk.js",
-    "static/js/2.3258fe1e.chunk.js.map": "/Jatinpandya/static/js/2.3258fe1e.chunk.js.map",
+    "static/js/2.69439e89.chunk.js": "/Jatinpandya/static/js/2.69439e89.chunk.js",
+    "static/js/2.69439e89.chunk.js.map": "/Jatinpandya/static/js/2.69439e89.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.04abc2b409eb203ea7eaf778ad2779e9.js": "/Jatinpandya/precache-manifest.04abc2b409eb203ea7eaf778ad2779e9.js",
+    "precache-manifest.a4cd23e47e02e02742f1df3863acd21f.js": "/Jatinpandya/precache-manifest.a4cd23e47e02e02742f1df3863acd21f.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.874a0750.chunk.css.map": "/Jatinpandya/static/css/main.874a0750.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -40,6 +40,7 @@
     "static/media/codeInLogo.png": "/Jatinpandya/static/media/codeInLogo.b3685be8.png",
     "static/media/codejay.png": "/Jatinpandya/static/media/codejay.6044e78d.png",
     "static/media/contactMail.png": "/Jatinpandya/static/media/contactMail.d6d4086f.png",
+    "static/media/csg.png": "/Jatinpandya/static/media/csg.d7d71099.png",
     "static/media/dac.png": "/Jatinpandya/static/media/dac.7a8893c5.png",
     "static/media/data.png": "/Jatinpandya/static/media/data.58508149.png",
     "static/media/data_science.svg": "/Jatinpandya/static/media/data_science.434d2b01.svg",
@@ -91,12 +92,12 @@
     "static/media/ui_ux_design.svg": "/Jatinpandya/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/undraw_on_the_office_fbfs.png": "/Jatinpandya/static/media/undraw_on_the_office_fbfs.4eb8a921.png",
     "static/media/undraw_starry_window_ppm0.png": "/Jatinpandya/static/media/undraw_starry_window_ppm0.b5dd6ab5.png",
-    "static/media/xsp.png": "/Jatinpandya/static/media/xsp.c26e57ce.png"
+    "static/media/xsp1.png": "/Jatinpandya/static/media/xsp1.c26e57ce.png"
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.3258fe1e.chunk.js",
+    "static/js/2.69439e89.chunk.js",
     "static/css/main.874a0750.chunk.css",
-    "static/js/main.2e0dbd73.chunk.js"
+    "static/js/main.b68977b4.chunk.js"
   ]
 }

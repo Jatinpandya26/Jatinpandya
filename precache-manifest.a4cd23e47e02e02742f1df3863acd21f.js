@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8475adc40910b0c859be85615146644",
+    "revision": "9a2d4d1e30b39a910c8df1e20599e857",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "3269598e963b7941ead0",
+    "revision": "1ab528904e8d20397303",
     "url": "/Jatinpandya/static/css/main.874a0750.chunk.css"
   },
   {
-    "revision": "d5a944fd9dc8f3079192",
-    "url": "/Jatinpandya/static/js/2.3258fe1e.chunk.js"
+    "revision": "8db08b55e9145e1a14ca",
+    "url": "/Jatinpandya/static/js/2.69439e89.chunk.js"
   },
   {
-    "revision": "3269598e963b7941ead0",
-    "url": "/Jatinpandya/static/js/main.2e0dbd73.chunk.js"
+    "revision": "1ab528904e8d20397303",
+    "url": "/Jatinpandya/static/js/main.b68977b4.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
@@ -162,6 +162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/Jatinpandya/static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "d7d71099260ffed76439d9f507f3c501",
+    "url": "/Jatinpandya/static/media/csg.d7d71099.png"
   },
   {
     "revision": "7a8893c5199c43e592c5c9806ad34037",
@@ -425,6 +429,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c26e57ce78bf6387eec6dcabcc541e69",
-    "url": "/Jatinpandya/static/media/xsp.c26e57ce.png"
+    "url": "/Jatinpandya/static/media/xsp1.c26e57ce.png"
   }
 ]);
