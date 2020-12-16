@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.874a0750.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.6eca46b8.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.6eca46b8.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.2e0dbd73.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.2e0dbd73.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
-    "static/js/2.a5301790.chunk.js": "/Jatinpandya/static/js/2.a5301790.chunk.js",
-    "static/js/2.a5301790.chunk.js.map": "/Jatinpandya/static/js/2.a5301790.chunk.js.map",
+    "static/js/2.3258fe1e.chunk.js": "/Jatinpandya/static/js/2.3258fe1e.chunk.js",
+    "static/js/2.3258fe1e.chunk.js.map": "/Jatinpandya/static/js/2.3258fe1e.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.120f99ef9716d28ce40cf17cad54324e.js": "/Jatinpandya/precache-manifest.120f99ef9716d28ce40cf17cad54324e.js",
+    "precache-manifest.04abc2b409eb203ea7eaf778ad2779e9.js": "/Jatinpandya/precache-manifest.04abc2b409eb203ea7eaf778ad2779e9.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.874a0750.chunk.css.map": "/Jatinpandya/static/css/main.874a0750.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -90,12 +90,13 @@
     "static/media/udcd.png": "/Jatinpandya/static/media/udcd.918d6ecc.png",
     "static/media/ui_ux_design.svg": "/Jatinpandya/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/undraw_on_the_office_fbfs.png": "/Jatinpandya/static/media/undraw_on_the_office_fbfs.4eb8a921.png",
-    "static/media/undraw_starry_window_ppm0.png": "/Jatinpandya/static/media/undraw_starry_window_ppm0.b5dd6ab5.png"
+    "static/media/undraw_starry_window_ppm0.png": "/Jatinpandya/static/media/undraw_starry_window_ppm0.b5dd6ab5.png",
+    "static/media/xsp.png": "/Jatinpandya/static/media/xsp.c26e57ce.png"
   },
   "entrypoints": [
     "static/js/runtime-main.024bdc4f.js",
-    "static/js/2.a5301790.chunk.js",
+    "static/js/2.3258fe1e.chunk.js",
     "static/css/main.874a0750.chunk.css",
-    "static/js/main.6eca46b8.chunk.js"
+    "static/js/main.2e0dbd73.chunk.js"
   ]
 }
