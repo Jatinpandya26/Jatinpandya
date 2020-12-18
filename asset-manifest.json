@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jatinpandya/static/css/main.874a0750.chunk.css",
-    "main.js": "/Jatinpandya/static/js/main.8539d5ac.chunk.js",
-    "main.js.map": "/Jatinpandya/static/js/main.8539d5ac.chunk.js.map",
+    "main.js": "/Jatinpandya/static/js/main.52c7570f.chunk.js",
+    "main.js.map": "/Jatinpandya/static/js/main.52c7570f.chunk.js.map",
     "runtime-main.js": "/Jatinpandya/static/js/runtime-main.024bdc4f.js",
     "runtime-main.js.map": "/Jatinpandya/static/js/runtime-main.024bdc4f.js.map",
     "static/js/2.54ace7bb.chunk.js": "/Jatinpandya/static/js/2.54ace7bb.chunk.js",
     "static/js/2.54ace7bb.chunk.js.map": "/Jatinpandya/static/js/2.54ace7bb.chunk.js.map",
     "index.html": "/Jatinpandya/index.html",
-    "precache-manifest.656f08d7fe743ddbaeef59065ebd815d.js": "/Jatinpandya/precache-manifest.656f08d7fe743ddbaeef59065ebd815d.js",
+    "precache-manifest.4a4e17af81268b398a565f901ab4959d.js": "/Jatinpandya/precache-manifest.4a4e17af81268b398a565f901ab4959d.js",
     "service-worker.js": "/Jatinpandya/service-worker.js",
     "static/css/main.874a0750.chunk.css.map": "/Jatinpandya/static/css/main.874a0750.chunk.css.map",
     "static/media/index.css": "/Jatinpandya/static/media/Montserrat-Regular.ee653992.ttf",
@@ -104,6 +104,6 @@
     "static/js/runtime-main.024bdc4f.js",
     "static/js/2.54ace7bb.chunk.js",
     "static/css/main.874a0750.chunk.css",
-    "static/js/main.8539d5ac.chunk.js"
+    "static/js/main.52c7570f.chunk.js"
   ]
 }
