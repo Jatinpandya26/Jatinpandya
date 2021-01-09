@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e7b8bee09f46125fe2b6759ddd84457",
+    "revision": "16011312d77cb80f1a98c2a174ba61d5",
     "url": "/Jatinpandya/index.html"
   },
   {
-    "revision": "fde9cd2cfd1197b21f45",
+    "revision": "28a935dd38ed2443f0cc",
     "url": "/Jatinpandya/static/css/main.874a0750.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jatinpandya/static/js/2.54ace7bb.chunk.js"
   },
   {
-    "revision": "fde9cd2cfd1197b21f45",
-    "url": "/Jatinpandya/static/js/main.c96facfc.chunk.js"
+    "revision": "28a935dd38ed2443f0cc",
+    "url": "/Jatinpandya/static/js/main.1e1043ff.chunk.js"
   },
   {
     "revision": "ebd48bd22c48573be0ed",
