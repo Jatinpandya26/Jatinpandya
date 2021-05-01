@@ -26,7 +26,7 @@ $ npm start
 - [graphql](https://graphql.org/) 
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
 
-## Contributors AND Inspiration ✨
+## Contributors & Inspiration ✨
 
 <table>
   <tr>
