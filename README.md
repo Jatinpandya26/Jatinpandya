@@ -20,20 +20,13 @@ $ npm start
 ```
 #### Personalize page content in `/src/portfolio.js` & modify it as per your need.
 
-## Deployment 📦 
-When you are done with the setup, you should host your website online.
-We highly recommend to read through the [Deploying on Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) docs for React.
-
-## Illustrations
-- [UnDraw](https://undraw.co/illustrations)
-
 ## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/) 
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
 
-## Contributors ✨
+## Contributors AND Inspiration ✨
 
 <table>
   <tr>
