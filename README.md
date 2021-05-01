@@ -77,7 +77,7 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
 
 ## References  
-Some Design Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
+Basic Design Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
 
 ## Contributors ✨
 
