@@ -30,10 +30,6 @@ $ npm start
 
 <table>
   <tr>
-    <td align="center"><a href="https://jatinpandya26.github.io/Jatinpandya/"><img src="https://avatars0.githubusercontent.com/u/44518520?s=460&u=97a5f79dc57fbe2b91fa486ee1e9699de7b81a6f&v=4" width="100px;" alt=""/><br /><sub><b>Jatin Pandya</b></sub></a></td>
-
-<table>
-  <tr>
     <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
 
 <table>
